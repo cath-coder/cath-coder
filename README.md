@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou a Cath! 👋
 
-<!--
-**cath-coder/cath-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Bacharelado em Inteligência Artificial** no PIT (Piauí Instituto de Tecnologia) — 2º Período  
+🛡️ **Estudante de Cibersegurança**  
+✈️ **Auxiliar de Operações Aeroportuárias**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 📊 Interessada em **Ciência de Dados, Machine Learning e Cibersegurança**.
+- 💡 Buscando aplicar lógica de programação, IA e segurança para resolver desafios do setor logístico e aéreo.
+- 🛠️ Atualmente estudando **Python, Algoritmos, Estruturas de Dados e Fundamentos de Redes/Segurança**.
+- 🌐 **Inglês Intermediário** para leitura e comunicação técnica.
+- 📱 Facilidade no manuseio e gestão de **Ferramentas de Redes Sociais**.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python
+- **Ferramentas:** Git, GitHub, VS Code, Google Colab, Redes Sociais
+- **Áreas de Estudo:** Inteligência Artificial, Cibersegurança, Ciência de Dados
+
+---
+
+### 📫 Vamos nos conectar?
+- LinkedIn: [Ana Catharina | LinkedIn](https://www.linkedin.com/in/anacatharina)
+- Email: anacatharinacarvalho32@gmail.com
