@@ -23,5 +23,5 @@
 ---
 
 ### 📫 Vamos nos conectar?
-- LinkedIn: [Ana Catharina | LinkedIn]([https://www.linkedin.com/in/anacatharina](https://www.linkedin.com/in/ana-catharina-004039302/))
+- LinkedIn: [Ana Catharina | LinkedIn]([https://www.linkedin.com/in/anacatharina](https://www.linkedin.com/in/ana-catharina-004039302/)
 - Email: anacatharinacarvalho32@gmail.com
