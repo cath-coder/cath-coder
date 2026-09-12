@@ -6,15 +6,6 @@
 
 ---
 
-### 🚀 Sobre mim
-- 📊 Interessada em **Ciência de Dados, Machine Learning e Cibersegurança**.
-- 💡 Buscando aplicar lógica de programação, IA e segurança para resolver desafios do setor logístico e aéreo.
-- 🛠️ Atualmente estudando **Python, Algoritmos, Estruturas de Dados e Fundamentos de Redes/Segurança**.
-- 🌐 **Inglês Intermediário** para leitura e comunicação técnica.
-- 📱 Facilidade no manuseio e gestão de **Ferramentas de Redes Sociais**.
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 - **Linguagens:** Python
 - **Ferramentas:** Git, GitHub, VS Code, Google Colab, Redes Sociais
